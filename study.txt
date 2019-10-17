@@ -1,0 +1,14 @@
+1	https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
+2	https://www.geeksforgeeks.org/playfair-cipher-with-examples/
+3	https://www.geeksforgeeks.org/hill-cipher/
+4	https://www.geeksforgeeks.org/vigenere-cipher/
+5	https://www.geeksforgeeks.org/rail-fence-cipher-encryption-decryption/
+6	https://www.geeksforgeeks.org/data-encryption-standard-des-set-1/
+7	https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
+8	https://www.geeksforgeeks.org/implementation-diffie-hellman-algorithm/
+9	//Verify the folder
+10	//Verify the folder
+11	//Verify the folder
+12	//verify the folder(gnupg)
+13	//Not yet done(HoneyPot)
+14	//Not yet done(Rootkit)

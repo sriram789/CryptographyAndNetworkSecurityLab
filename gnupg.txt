@@ -1,0 +1,3 @@
+gpg --gen-key
+gpg --output myfile.txt.gpg --encrypt --recipient your.friend@yourfriendsdomain.com  myfile.txt
+gpg --output myfile.txt --decrypt myfile.txt.gpg

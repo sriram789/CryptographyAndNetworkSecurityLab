@@ -1,0 +1,6 @@
+Always use capital alphabets for cipher techniques.
+All the programs given below will only focus on common cases not the corner cases.
+Only the encryption for all the algorithms are done,
+    that is enough.
+    If the external wants the decryption also,
+    just print the plain text at the end(describing it as decrypted text).
