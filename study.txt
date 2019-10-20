@@ -9,6 +9,9 @@
 9	//Verify the folder
 10	//Verify the folder
 11	//Verify the folder
+for openssl installaion 
+#1 sudo apt-get install openssl
+#2 sudo apt-get install libssl-dev
 12	//verify the folder(gnupg)
 13	//Not yet done(HoneyPot)
 14	//Not yet done(Rootkit)
