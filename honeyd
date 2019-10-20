@@ -1,0 +1,15 @@
+1 wget https://github.com/DataSoft/Honeyd/archive/master.zip
+2 sudo apt-get install unzip
+3 unzip master.zip
+4 sudo apt-get install libevent-dev libdumbnet-dev libpcap-dev libpcre3-dev libedit-dev bison flex libtool automake
+(and this is the end of their current instructions)
+5 sudo apt-get install zlibc zlib1g zlib1g-dev
+6 cd Honeyd-master
+7 ./autogen.sh
+8 ./configure
+9  make
+10 sudo make install
+11 sudo honeyd -f /etc/honeyd.conf
+==============================================
+12 new terminal 
+13 nmap -p 25,80,443,1025 ipaddress(take it from ifconfig)
