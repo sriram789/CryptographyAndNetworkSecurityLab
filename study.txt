@@ -12,6 +12,9 @@
 for openssl installaion 
 #1 sudo apt-get install openssl
 #2 sudo apt-get install libssl-dev
+for fadora opensll 
+yum install openssl or dnf install openssl
+dnf install openssl-devel or yum install openssl-devel
 12	//verify the folder(gnupg)
 13	//Not yet done(HoneyPot)
 14	//Not yet done(Rootkit)
