@@ -9,7 +9,7 @@
 9	//Verify the folder
 10	//Verify the folder
 11	//Verify the folder
-for openssl installaion 
+for openssl installaion(ubuntu)
 #1 sudo apt-get install openssl
 #2 sudo apt-get install libssl-dev
 for fadora openssl(in root) 
